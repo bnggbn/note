@@ -1,5 +1,5 @@
 {
-  "name": "twcn",
+  "name": "",
   "version": "0.0.1",
   "description": "ascII<=>char轉換",
   "main": "lib/swasc.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/ccckmit/twcn.git"
+    "url": "http://github.com/bnggbn/twcn.git"
   },
   "license": "MIT"
 }
